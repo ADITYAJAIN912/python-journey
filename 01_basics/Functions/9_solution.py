@@ -1,0 +1,2 @@
+# generate function with yield
+
