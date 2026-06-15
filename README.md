@@ -1,12 +1,12 @@
-# Python Learning Journey 🐍
+# Python Learning Journey 🚀
 
-This repository documents my journey of learning Python, Backend Development, and AI Systems Engineering.
+This repository documents my journey of learning Python, Backend Development, APIs, and AI Systems Engineering.
 
 ## Goal
 
-My long-term goal is to become an AI Systems Engineer capable of building real-world AI applications, backend systems, and intelligent products.
+My long-term goal is to become an AI Systems Engineer capable of building production-grade AI applications, backend systems, and intelligent products.
 
-This repository contains my daily practice, notes, exercises, and projects as I progress through Python and related technologies.
+This repository contains my daily learning, practice exercises, notes, mini-projects, and experiments.
 
 ---
 
@@ -40,58 +40,130 @@ This repository contains my daily practice, notes, exercises, and projects as I 
 * Property Decorators
 * Static Methods
 
+### 03. File Handling
+
+* Reading Files
+* Writing Files
+* Appending Data
+* JSON Files
+* with Statement
+* try-except-finally
+
+### 04. API Handling
+
+* HTTP Requests
+* GET Requests
+* JSON Responses
+* Requests Library
+* API Error Handling
+* Response Parsing
+
+---
+
+## Mini Projects
+
+### YouTube Manager App
+
+Features:
+
+* Add Videos
+* Update Videos
+* Delete Videos
+* Store Data in JSON
+* Load Data from JSON
+
+Concepts Used:
+
+* Functions
+* Lists
+* Dictionaries
+* File Handling
+* JSON
+
+### Random User API Project
+
+Features:
+
+* Fetch Random User Data
+* Extract Username
+* Extract Country
+* Handle API Responses
+
+Concepts Used:
+
+* Requests Library
+* JSON Parsing
+* Functions
+* Exception Handling
+
+### Random Product API Project
+
+Features:
+
+* Fetch Random Product Details
+* Extract Product Name
+* Extract Product ID
+* Handle API Responses
+
+Concepts Used:
+
+* Requests Library
+* JSON Parsing
+* API Debugging
+* Exception Handling
+
 ---
 
 ## Repository Structure
 
-```text
 Python/
-│
+
 ├── 01_basics/
-│   ├── Conditionals/
-│   ├── Loops/
-│   ├── Functions/
-│   ├── Scopes/
-│   └── ...
+
+│ ├── Conditionals/
+
+│ ├── Loops/
+
+│ ├── Functions/
+
+│ ├── Scopes/
+
 │
+
 ├── 02_OOP/
-│   ├── Classes & Objects
-│   ├── Inheritance
-│   ├── Encapsulation
-│   ├── Static Methods
-│   └── ...
+
+│ ├── Inheritance/
+
+│ ├── Encapsulation/
+
+│ ├── Property Decorators/
+
 │
+
+├── 04_handling_api/
+
+│ ├── freeapi_username.py
+
+│ ├── freeapi_product.py
+
+│
+
 ├── README.md
+
 └── .gitignore
-```
 
 ---
 
 ## Upcoming Topics
 
 * Modules
-* Exception Handling
-* File Handling
 * Decorators
+* Exception Handling (Advanced)
 * REST APIs
 * FastAPI
 * Databases
 * AI APIs
 * AI Systems Projects
-
----
-
-## Learning Philosophy
-
-I believe in learning by:
-
-* Understanding concepts deeply
-* Writing code daily
-* Building projects
-* Reading code
-* Maintaining consistency
-
-My focus is on long-term growth as an engineer rather than short-term completion of courses.
 
 ---
 
@@ -107,14 +179,29 @@ My focus is on long-term growth as an engineer rather than short-term completion
 
 ### Day 2
 
-* Object-Oriented Programming (OOP)
-* Inheritance
-* Encapsulation
-* Property Decorators
-* Static Methods
+* Object-Oriented Programming
+* File Handling
+* JSON
+* API Handling
+* Random User API Project
+* Random Product API Project
 
 ---
 
-## Connect
+## Learning Philosophy
 
-This repository will continue to grow as I learn backend development, AI engineering, and production-grade systems.
+I focus on:
+
+* Understanding concepts deeply
+* Building projects
+* Reading and reviewing code
+* Learning by debugging
+* Consistent daily progress
+
+My objective is not just to learn syntax, but to understand how software systems are built and how AI-powered applications work.
+
+---
+
+## Future Roadmap
+
+Python → DSA → REST APIs → FastAPI → Databases → AI APIs → AI Systems Engineering
